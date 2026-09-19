@@ -7,7 +7,7 @@ Kerem Köken
   -  Editor: VSCode, Visual Studio, Eclipse
   -  Languages: C, Java
 
-Bağlantılar: <a href="[https://www.linkedin.com/in/KULLANICI_ADI/](https://www.linkedin.com/in/kerem-köken-90b3ab32a/)" target="_blank">
+Bağlantılar: <a href="https://www.linkedin.com/in/kerem-köken-90b3ab32a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rozeti"/>
 </a>
 <!--
