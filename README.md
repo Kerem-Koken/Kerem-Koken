@@ -8,7 +8,7 @@ Kerem Köken
   -  Languages: C, Java
 
 Bağlantılar: <a href="https://www.linkedin.com/in/kerem-köken-90b3ab32a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rozeti"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <!--
 **Kerem-Koken/Kerem-Koken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
