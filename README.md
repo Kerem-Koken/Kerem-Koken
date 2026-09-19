@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Kerem Köken
+
+  -  OS: Windows 11
+  -  Host: Gazi university - CENG(2,4)
+  -  Editor: VSCode, Visual Studio, Eclipse
+  -  Languages: C, Java
+
+
 <!--
 **Kerem-Koken/Kerem-Koken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
