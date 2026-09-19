@@ -8,7 +8,7 @@ Kerem Köken
   -  Learning: C#, Web Programming
   -  Languages: C, Java
 
-Bağlantılar: <a href="https://www.linkedin.com/in/KULLANICI_ADIN/" target="_blank">LinkedIn</a>
+Bağlantılar: <a href="https://www.linkedin.com/in/kerem-köken-90b3ab32a/" target="_blank">LinkedIn</a>
 <!--
 **Kerem-Koken/Kerem-Koken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
