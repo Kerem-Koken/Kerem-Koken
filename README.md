@@ -5,6 +5,7 @@ Kerem Köken
   -  OS: Windows 11
   -  Host: Gazi university - CENG(2,4)
   -  Editor: VSCode, Visual Studio, Eclipse
+  -  Learning: C#, Web Programming
   -  Languages: C, Java
 
 Bağlantılar: <a href="https://www.linkedin.com/in/KULLANICI_ADIN/" target="_blank">LinkedIn</a>
